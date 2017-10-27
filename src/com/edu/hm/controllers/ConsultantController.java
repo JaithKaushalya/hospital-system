@@ -14,7 +14,7 @@ import java.util.ArrayList;
 import com.edu.hm.dbconnection.DBConnection;
 import com.edu.hm.dto.ConsultantDTO;
 
-/**,l;,m;,;
+/**,l;,m;,;kjuhgyt
  *
  * @author Jinadi
  */
